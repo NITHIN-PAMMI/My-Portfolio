@@ -26,7 +26,7 @@ export default function Education() {
           <CardContent className="flex flex-col items-center text-center">
             <GraduationCap className="h-12 w-12 mb-4 text-primary" />
             <h3 className="text-xl font-semibold">
-              Bachelor of Technology, Computer Science
+              Bachelor of Technology, CSE(Cyber Security)
             </h3>
             <CardDescription>
               Raghu Institute of Technology, Visakhapatnam • Nov 2022 – Present
@@ -43,7 +43,7 @@ export default function Education() {
             <CardDescription>
               Prabha Jr. College, Visakhapatnam • 2020 – 2022
             </CardDescription>
-            <p className="text-sm mt-2 text-muted-foreground">GPA: 8.1</p>
+            <p className="text-sm mt-2 text-muted-foreground">GPA: 7.7</p>
           </CardContent>
         </Card>
 
@@ -55,7 +55,7 @@ export default function Education() {
             <CardDescription>
               Srujana High School, Visakhapatnam • 2019 – 2020
             </CardDescription>
-            <p className="text-sm mt-2 text-muted-foreground">GPA: 8.6</p>
+            <p className="text-sm mt-2 text-muted-foreground">GPA: 8.2</p>
           </CardContent>
         </Card>
       </div>
