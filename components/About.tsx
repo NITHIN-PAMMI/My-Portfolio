@@ -24,15 +24,7 @@ export default function About() {
             </p>
 
             <div className="flex justify-center gap-4">
-              <Badge variant="secondary" className="flex items-center gap-1">
-                <Shield size={16} /> Cyber Security
-              </Badge>
-              <Badge variant="secondary" className="flex items-center gap-1">
-                <Cpu size={16} /> Data Analytics
-              </Badge>
-              <Badge variant="secondary" className="flex items-center gap-1">
-                <Users size={16} /> Team Leadership
-              </Badge>
+
             </div>
 
             <p>
