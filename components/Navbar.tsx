@@ -21,7 +21,7 @@ export default function Navbar() {
       <nav className="flex items-center justify-between p-6 lg:px-8 max-w-7xl mx-auto" aria-label="Global">
         <div className="flex-none">
           <a href="#" className="text-xl font-semibold">
-            Nithin Pammi
+            NITHIN PAMMI
           </a>
         </div>
         <div className="flex lg:hidden">
