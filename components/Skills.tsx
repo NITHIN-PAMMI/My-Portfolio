@@ -7,12 +7,12 @@ const skillCategories = [
   {
     name: "Programming Languages",
     icon: Code2,
-    skills: ["Java", "Python", "C"],
+    skills: ["Python", "C"],
   },
   {
     name: "Web Technologies",
     icon: Globe,
-    skills: ["HTML", "CSS", "JavaScript"],
+    skills: ["HTML", "CSS", "JavaScript","Figma"],
   },
   {
     name: "Developer Tools",
@@ -22,7 +22,7 @@ const skillCategories = [
   {
     name: "Databases",
     icon: Database,
-    skills: ["MySQL", "PostgreSQL"],
+    skills: ["MySQL", "PostgreSQL","SQLite3"],
   },
   {
     name: "Problem Solving",
